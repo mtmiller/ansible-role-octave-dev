@@ -1,0 +1,13 @@
+---
+octave_dev_qscintilla2_dependencies:
+  - libqscintilla2-dev
+
+octave_dev_qt_dependencies:
+  - libqt4-dev
+  - libqt4-dev-bin
+  - libqt4-opengl-dev
+  - qt4-dev-tools
+  - qt4-linguist-tools
+
+octave_dev_sundials_dependencies:
+  - libsundials-serial-dev

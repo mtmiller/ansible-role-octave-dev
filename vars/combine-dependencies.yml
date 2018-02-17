@@ -1,0 +1,2 @@
+---
+octave_dev_dependencies: "{{ (octave_dev_base_dependencies + octave_dev_qscintilla2_dependencies + octave_dev_qt_dependencies + octave_dev_sundials_dependencies) | sort | unique }}"

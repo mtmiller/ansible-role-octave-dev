@@ -1,0 +1,7 @@
+---
+- name: Install GNU Octave development dependencies
+  apt:
+    name: "{{ item }}"
+    state: latest
+    update_cache: true
+  with_items: "{{ octave_dev_dependencies }}"

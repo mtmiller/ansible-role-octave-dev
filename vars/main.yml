@@ -1,0 +1,76 @@
+---
+octave_dev_base_dependencies:
+  - autoconf
+  - automake
+  - bison
+  - default-jdk
+  - desktop-file-utils
+  - epstool
+  - flex
+  - g++
+  - gawk
+  - gcc
+  - gfortran
+  - ghostscript
+  - gnuplot-nox
+  - gperf
+  - gzip
+  - icoutils
+  - less
+  - libarpack2-dev
+  - libblas-dev
+  - libbz2-dev
+  - libc6-dev
+  - libcurl4-gnutls-dev
+  - libfftw3-dev
+  - libfltk1.3-dev
+  - libfontconfig1-dev
+  - libfreetype6-dev
+  - libgl1-mesa-dev
+  - libgl2ps-dev
+  - libglpk-dev
+  - libglu1-mesa-dev
+  - libgraphicsmagick++1-dev
+  - libhdf5-dev
+  - liblapack-dev
+  - libncurses5-dev
+  - libosmesa6-dev
+  - libpcre3-dev
+  - libqhull-dev
+  - libqrupdate-dev
+  - libreadline-dev
+  - librsvg2-bin
+  - libsndfile1-dev
+  - libsuitesparse-dev
+  - libtool
+  - libxft-dev
+  - lzip
+  - make
+  - mercurial
+  - portaudio19-dev
+  - pstoedit
+  - tar
+  - texinfo
+  - texlive-base
+  - texlive-binaries
+  - texlive-fonts-recommended
+  - texlive-generic-recommended
+  - texlive-latex-base
+  - transfig
+  - unzip
+  - xz-utils
+  - zip
+  - zlib1g-dev
+
+octave_dev_qscintilla2_dependencies:
+  - libqscintilla2-qt5-dev
+
+octave_dev_qt_dependencies:
+  - libqt5opengl5-dev
+  - qtbase5-dev
+  - qtbase5-dev-tools
+  - qttools5-dev
+  - qttools5-dev-tools
+
+octave_dev_sundials_dependencies:
+  - libsundials-dev

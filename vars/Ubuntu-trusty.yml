@@ -1,0 +1,6 @@
+---
+octave_dev_qscintilla2_dependencies:
+  - libqt5scintilla2-dev
+
+octave_dev_sundials_dependencies:
+  - libsundials-serial-dev
