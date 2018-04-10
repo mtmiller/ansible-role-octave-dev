@@ -24,6 +24,10 @@ env:
     - Distribution: Ubuntu
       Release: bionic
 
+matrix:
+  allow_failures:
+    - env: Distribution=Debian Release=sid
+
 services:
   - docker
 
